@@ -13,5 +13,6 @@ public class Data
         level = gm.level;
         score = gm.score;
     }
+
     
 }
